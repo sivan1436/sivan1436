@@ -1,0 +1,189 @@
+﻿Diagnose log at 2026-06-24T10:16:42Z
+
+AppPath: C:\Program Files\Git\mingw64\bin\git-credential-manager.exe
+InstallDir: C:\Program Files\Git\mingw64\bin\
+Version: 2.7.3+5fa7116896c82164996a609accd1c5ad90fe730a
+
+------------
+Diagnostic: Environment
+Skipped: False
+Success: True
+Exception: None
+Log:
+OSType: Windows
+OSVersion: 10.0 (build 19045)
+Reading environment variables... OK
+ Variables:
+SystemDrive=C:
+ProgramFiles(x86)=C:\Program Files (x86)
+MSYSTEM=MINGW64
+ProgramW6432=C:\Program Files
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 58 Stepping 9, GenuineIntel
+TMP=C:\Users\sys-18\AppData\Local\Temp
+PROCESSOR_ARCHITECTURE=AMD64
+VSCODE_GIT_ASKPASS_MAIN=c:\Users\sys-18\AppData\Roaming\Code\User\globalStorage\vscode.git\askpass\493597c785d4c5cb\askpass-main.js
+Path=C:/Program Files/Git/mingw64/libexec/git-core;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\sys-18\bin;c:\Users\sys-18\AppData\Roaming\Code\User\globalStorage\github.copilot-chat\debugCommand;c:\Users\sys-18\AppData\Roaming\Code\User\globalStorage\github.copilot-chat\copilotCli;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Users\sys-18\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\sys-18\AppData\Local\Programs\Python\Python311\;C:\Users\sys-18\AppData\Local\Programs\Python\Python315\Scripts\;C:\Users\sys-18\AppData\Local\Programs\Python\Python315\;C:\Users\sys-18\AppData\Local\Programs\Python\Launcher\;C:\Users\sys-18\AppData\Local\Microsoft\WindowsApps;C:\Users\sys-18\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\sys-18\AppData\Local\Microsoft\WinGet\Packages\PHP.PHP.8.2_Microsoft.Winget.Source_8wekyb3d8bbwe;;c:\Users\sys-18\.vscode\extensions\ms-python.debugpy-2026.6.0-win32-x64\bundled\scripts\noConfigScripts
+VSCODE_GIT_IPC_HANDLE=\\.\pipe\vscode-git-55b1a3c223-sock
+PROCESSOR_REVISION=3a09
+TEMP=C:\Users\sys-18\AppData\Local\Temp
+USERPROFILE=C:\Users\sys-18
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+LOGONSERVER=\\DESKTOP-N42G21A
+TERM=xterm-256color
+PYDEVD_DISABLE_FILE_VALIDATION=1
+USERNAME=sys-18
+SystemRoot=C:\Windows
+VSCODE_DEBUGPY_ADAPTER_ENDPOINTS=c:\Users\sys-18\.vscode\extensions\ms-python.debugpy-2026.6.0-win32-x64\.noConfigDebugAdapterEndpoints\endpoint-f00daf6b1903ca8c.txt
+CHROME_CRASHPAD_PIPE_NAME=\\.\pipe\crashpad_27012_LVXEQLXNAGMEOJMM
+GIT_EXEC_PATH=C:/Program Files/Git/mingw64/libexec/git-core
+PLINK_PROTOCOL=ssh
+OneDrive=C:\Users\sys-18\OneDrive
+VSCODE_NONCE=6181b601-2d99-4fe3-a5dd-bc417381df19
+CommonProgramFiles=C:\Program Files\Common Files
+VSCODE_INJECTION=1
+PYTHON_BASIC_REPL=1
+ProgramData=C:\ProgramData
+LANG=en_US.UTF-8
+GIT_ASKPASS=c:\Users\sys-18\AppData\Roaming\Code\User\globalStorage\vscode.git\askpass\493597c785d4c5cb\askpass.sh
+HOMEPATH=\Users\sys-18
+COMPUTERNAME=DESKTOP-N42G21A
+PYTHONSTARTUP=c:\Users\sys-18\AppData\Roaming\Code\User\workspaceStorage\c0d93c36acd651cdd174425915b6231b\ms-python.python\pythonrc.py
+ALLUSERSPROFILE=C:\ProgramData
+CommonProgramW6432=C:\Program Files\Common Files
+COPILOT_DEBUG_NONCE=c6c4e780c90874bd9eef97f7f05b3465
+VSCODE_A11Y_MODE=0
+SESSIONNAME=Console
+DriverData=C:\Windows\System32\Drivers\DriverData
+HOMEDRIVE=C:
+windir=C:\Windows
+GIT_TRACE2_PARENT_SID=6032603d-e880-486c-84bf-4f3b3306dbd5
+VSCODE_GIT_ASKPASS_NODE=C:\Users\sys-18\AppData\Local\Programs\Microsoft VS Code\Code.exe
+NUMBER_OF_PROCESSORS=8
+OS=Windows_NT
+ProgramFiles=C:\Program Files
+ComSpec=C:\Windows\system32\cmd.exe
+VSCODE_STABLE=1
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.CPL
+HOME=C:\Users\sys-18
+PSModulePath=C:\Users\sys-18\Documents\WindowsPowerShell\Modules;C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+TMPDIR=C:\Users\sys-18\AppData\Local\Temp
+APPDATA=C:\Users\sys-18\AppData\Roaming
+USERDOMAIN=DESKTOP-N42G21A
+PROCESSOR_LEVEL=6
+LOCALAPPDATA=C:\Users\sys-18\AppData\Local
+BUNDLED_DEBUGPY_PATH=c:\Users\sys-18\.vscode\extensions\ms-python.debugpy-2026.6.0-win32-x64\bundled\libs\debugpy
+TERM_PROGRAM_VERSION=1.125.1
+USERDOMAIN_ROAMINGPROFILE=DESKTOP-N42G21A
+COLORTERM=truecolor
+PUBLIC=C:\Users\Public
+TERM_PROGRAM=vscode
+VSCODE_GIT_ASKPASS_EXTRA_ARGS=
+
+
+------------
+Diagnostic: File system
+Skipped: False
+Success: True
+Exception: None
+Log:
+Temporary directory is 'C:\Users\sys-18\AppData\Local\Temp\'...
+Checking basic file I/O...
+Writing to temporary file 'C:\Users\sys-18\AppData\Local\Temp\c88d48638875a5bc7d7b0663'... OK
+Reading from temporary file 'C:\Users\sys-18\AppData\Local\Temp\c88d48638875a5bc7d7b0663'... OK
+Deleting temporary file 'C:\Users\sys-18\AppData\Local\Temp\c88d48638875a5bc7d7b0663'... OK
+Testing IFileSystem instance...
+UserHomePath: C:\Users\sys-18
+UserDataDirectoryPath: C:\Users\sys-18\.gcm
+GetCurrentDirectory(): C:\Users\sys-18\Desktop\fullstack\portfolio
+
+------------
+Diagnostic: Networking
+Skipped: False
+Success: True
+Exception: None
+Log:
+Checking networking and HTTP stack...
+Creating HTTP client... OK
+IsNetworkAvailable: True
+Sending HEAD request to http://example.com...Sending HEAD request to https://example.com... OK
+ OK
+Acquiring free TCP port... OK
+Testing local HTTP loopback connections...
+Creating new HTTP listener for http://localhost:60832/... OK
+Waiting for loopback connection... OK
+Writing response... OK
+Waiting for response data... OK
+Loopback connection data OK
+
+------------
+Diagnostic: Git
+Skipped: False
+Success: True
+Exception: None
+Log:
+Getting Git version... OK
+Git version is '2.54.0.windows.1'
+Locating current repository...Git repository at 'C:/Users/sys-18/Desktop/fullstack/portfolio/.git'
+ OK
+Listing all Git configuration... OK
+Git configuration:
+file:C:/Program Files/Git/etc/gitconfig	diff.astextplain.textconv=astextplain
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.clean=git-lfs clean -- %f
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.smudge=git-lfs smudge -- %f
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.process=git-lfs filter-process
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.required=true
+file:C:/Program Files/Git/etc/gitconfig	http.sslbackend=schannel
+file:C:/Program Files/Git/etc/gitconfig	core.autocrlf=true
+file:C:/Program Files/Git/etc/gitconfig	core.fscache=true
+file:C:/Program Files/Git/etc/gitconfig	core.symlinks=false
+file:C:/Program Files/Git/etc/gitconfig	pull.rebase=false
+file:C:/Program Files/Git/etc/gitconfig	credential.helper=manager
+file:C:/Program Files/Git/etc/gitconfig	credential.https://dev.azure.com.usehttppath=true
+file:C:/Program Files/Git/etc/gitconfig	init.defaultbranch=master
+file:C:/Users/sys-18/.gitconfig	user.name=Your Name
+file:C:/Users/sys-18/.gitconfig	user.email=your.email@example.com
+file:.git/config	core.repositoryformatversion=0
+file:.git/config	core.filemode=false
+file:.git/config	core.bare=false
+file:.git/config	core.logallrefupdates=true
+file:.git/config	core.symlinks=false
+file:.git/config	core.ignorecase=true
+file:.git/config	remote.origin.url=https://github.com/sivabrahmaiah609/siva.git
+file:.git/config	remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+
+
+------------
+Diagnostic: Credential storage
+Skipped: False
+Success: True
+Exception: None
+Log:
+ICredentialStore instance is of type: CredentialStore
+Writing test credential... OK
+Reading test credential... OK
+Deleting test credential... OK
+
+------------
+Diagnostic: Microsoft authentication (AAD/MSA)
+Skipped: False
+Success: True
+Exception: None
+Log:
+Broker is not enabled.
+Flow type is: Auto
+Gathering MSAL token cache data... OK
+CacheDirectory: C:\Users\sys-18\AppData\Local\.IdentityService
+CacheFileName: msal.cache
+CacheFilePath: C:\Users\sys-18\AppData\Local\.IdentityService\msal.cache
+Creating cache helper... OK
+Verifying MSAL token cache persistence... OK
+
+------------
+Diagnostic: GitHub API
+Skipped: False
+Success: True
+Exception: None
+Log:
+Using 'https://github.com/' as API target.
+Querying '/meta' endpoint... OK
+
